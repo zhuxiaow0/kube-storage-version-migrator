@@ -14,7 +14,7 @@ require (
 	k8s.io/client-go v0.27.4
 	k8s.io/code-generator v0.27.4
 	k8s.io/component-base v0.27.4
-	k8s.io/klog/v2 v2.90.1
+	k8s.io/klog/v2 v2.110.1
 	k8s.io/kube-aggregator v0.27.4
 	sigs.k8s.io/controller-tools v0.4.1
 )
@@ -27,7 +27,7 @@ require (
 	github.com/emicklei/go-restful/v3 v3.9.0 // indirect
 	github.com/evanphx/json-patch v4.12.0+incompatible // indirect
 	github.com/fatih/color v1.7.0 // indirect
-	github.com/go-logr/logr v1.2.3 // indirect
+	github.com/go-logr/logr v1.3.0 // indirect
 	github.com/go-openapi/jsonpointer v0.19.6 // indirect
 	github.com/go-openapi/jsonreference v0.20.1 // indirect
 	github.com/go-openapi/swag v0.22.3 // indirect
